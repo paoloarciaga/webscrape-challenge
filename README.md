@@ -1,4 +1,4 @@
-# webscrape-challenge
+# Web-Scraping and Data Analysis Challenge
 
 This repo consists of two technical products: 
 - Deliverable 1: Scraped titles and previewed text from Mars news articles.
